@@ -17,4 +17,10 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
+
+```text
+C++           28 hrs 40 mins  ███████████████▒░░░░░░░░░   61.14 %
+Other         9 hrs 7 mins    █████░░░░░░░░░░░░░░░░░░░░   19.44 %
+```
+
 <!--END_SECTION:waka--> 
