@@ -6,7 +6,7 @@
 - ⚡ Fun fact: loving ancient poetry
 
 
-** Last 7 Days **
+**Last 7 Days**
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
