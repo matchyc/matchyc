@@ -8,6 +8,12 @@
 
 **Last 7 Days**
 <!--START_SECTION:waka-->
+
+```text
+C++           28 hrs 40 mins  ███████████████▒░░░░░░░░░   61.14 %
+Other         9 hrs 7 mins    █████░░░░░░░░░░░░░░░░░░░░   19.44 %
+```
+
 <!--END_SECTION:waka-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matchyc&count_private=true&show_icons=true&theme=vue)
