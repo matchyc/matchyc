@@ -6,7 +6,9 @@
 - ⚡ Fun fact: loving ancient poetry
 
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=matchyc)
+** Last 7 Days **
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matchyc&count_private=true&show_icons=true&theme=vue)
 
