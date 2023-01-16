@@ -12,9 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   39 mins         ██████████░░░░░░░░░░░░░░░   39.74 %
-XML        31 mins         ████████░░░░░░░░░░░░░░░░░   31.55 %
-Other      24 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.12 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
