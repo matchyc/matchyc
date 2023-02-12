@@ -12,7 +12,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Python    9 mins          ███████████████████████▒░   93.38 %
+SSH Key   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 %
+Other     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
 ```
 
 <!--END_SECTION:waka-->
