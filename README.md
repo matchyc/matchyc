@@ -12,7 +12,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Bash   12 mins         ██████████████▒░░░░░░░░░░   57.38 %
+YAML   8 mins          ██████████░░░░░░░░░░░░░░░   39.66 %
+C++    0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
 ```
 
 <!--END_SECTION:waka-->
