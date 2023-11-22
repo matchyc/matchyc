@@ -15,11 +15,11 @@ I'm Meng, a second-year graduate student majoring in computer science at Fudan U
 <!--START_SECTION:waka-->
 
 ```txt
-Python   7 hrs 19 mins   ███████████████▓░░░░░░░░░   63.00 %
-Bash     1 hr 51 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.90 %
-CSV      1 hr 46 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.21 %
-C++      33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
-Other    6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+Python   4 hrs 25 mins   ████████████████████▒░░░░   81.55 %
+CSV      56 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.38 %
+Bash     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+JSON     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+C        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
