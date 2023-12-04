@@ -26,4 +26,5 @@ Other      19 mins         ▓░░░░░░░░░░░░░░░░�
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matchyc&count_private=true&show_icons=true&theme=vue)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matchyc&langs_count=4&&hide=perl,raku,html,javascript,shell,roff,prolog)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matchyc&langs_count=4&&hide=perl,raku,html,javascript,shell,roff,prolog)](https://github.com/anuraghazra/github-readme-stats)-->
+
