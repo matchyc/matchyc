@@ -10,11 +10,13 @@ I'm Meng, a postgraduate student majoring in computer science at Fudan Universit
 
 - 🎉 SIGMOD 2023 Programming Contest, 3rd Place, Finalist.
 
+- 🎉 OceanBase Competition 2022, Top-10.
+
 
 
 💻 **CONTRIBUTING**
 
-[starrocks](https://github.com/StarRocks/starrocks) ![](https://avatars.githubusercontent.com/u/88238841?s=48&v=4) [Milvus](https://github.com/milvus-io/milvus) ![](https://avatars.githubusercontent.com/u/51735404?s=48&v=4) [Knowhere](https://github.com/milvus-io/knowhere) ![](https://avatars.githubusercontent.com/u/18416694?s=48&v=4) [DragonflyDB](https://github.com/dragonflydb/dragonfly) ![](https://avatars.githubusercontent.com/u/104819355?s=48&v=4)
+[starrocks](https://github.com/StarRocks/starrocks) ![](https://avatars.githubusercontent.com/u/88238841?s=48&v=4) [Milvus](https://github.com/milvus-io/milvus) ![](https://avatars.githubusercontent.com/u/51735404?s=48&v=4) [Knowhere](https://github.com/milvus-io/knowhere) ![](https://avatars.githubusercontent.com/u/18416694?s=48&v=4) [DragonflyDB](https://github.com/dragonflydb/dragonfly) ![](https://avatars.githubusercontent.com/u/104819355?s=48&v=4) [OceanBase](https://github.com/oceanbase/oceanbase) ![](https://avatars.githubusercontent.com/u/82347605?s=48&v=4)
 
 
 
