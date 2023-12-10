@@ -4,6 +4,10 @@
 
 I'm Meng, a postgraduate student majoring in computer science at Fudan University.
 
+📰 NEWS
+Won two championships on NeurIPS 2023 Competition Track: Practical Vector Search.
+SIGMOD 2023 Programming Contest, 3rd Place, Finalist.
+
 <!--
 - 🔭 I’m currently working on ANNS on vector data (struggling...)
 - 🤔 I’m looking for help with graph-based approximate nearest neighbor search
