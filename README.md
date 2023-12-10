@@ -6,9 +6,9 @@ I'm Meng, a postgraduate student majoring in computer science at Fudan Universit
 
 📰 **NEWS** 
 
-🏆 Won two championships on NeurIPS 2023 Competition Track: Practical Vector Search.  
+- 🏆 Won two championships on NeurIPS 2023 Competition Track: Practical Vector Search.  
 
-🎉 SIGMOD 2023 Programming Contest, 3rd Place, Finalist.
+- 🎉 SIGMOD 2023 Programming Contest, 3rd Place, Finalist.
 
 
 
