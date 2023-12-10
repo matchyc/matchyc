@@ -10,6 +10,14 @@ I'm Meng, a postgraduate student majoring in computer science at Fudan Universit
 
 🎉 SIGMOD 2023 Programming Contest, 3rd Place, Finalist.
 
+
+
+💻 Contributing
+
+[starrocks](https://github.com/StarRocks/starrocks) ![](https://avatars.githubusercontent.com/u/88238841?s=48&v=4) [Milvus](https://github.com/milvus-io/milvus) ![](https://avatars.githubusercontent.com/u/51735404?s=48&v=4) [Knowhere](https://github.com/milvus-io/knowhere) ![](https://avatars.githubusercontent.com/u/18416694?s=48&v=4) [DragonflyDB](https://github.com/dragonflydb/dragonfly) ![](https://avatars.githubusercontent.com/u/104819355?s=48&v=4)
+
+
+
 <!--
 - 🔭 I’m currently working on ANNS on vector data (struggling...)
 - 🤔 I’m looking for help with graph-based approximate nearest neighbor search
