@@ -4,7 +4,7 @@
 
 I'm Meng, a postgraduate student majoring in computer science at Fudan University.
 
-📰 NEWS  
+📰 **NEWS** 
 
 🏆 Won two championships on NeurIPS 2023 Competition Track: Practical Vector Search.  
 
@@ -12,7 +12,7 @@ I'm Meng, a postgraduate student majoring in computer science at Fudan Universit
 
 
 
-💻 Contributing
+💻 **Contributing**
 
 [starrocks](https://github.com/StarRocks/starrocks) ![](https://avatars.githubusercontent.com/u/88238841?s=48&v=4) [Milvus](https://github.com/milvus-io/milvus) ![](https://avatars.githubusercontent.com/u/51735404?s=48&v=4) [Knowhere](https://github.com/milvus-io/knowhere) ![](https://avatars.githubusercontent.com/u/18416694?s=48&v=4) [DragonflyDB](https://github.com/dragonflydb/dragonfly) ![](https://avatars.githubusercontent.com/u/104819355?s=48&v=4)
 
