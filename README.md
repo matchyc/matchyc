@@ -10,7 +10,7 @@ I'm Meng, a postgraduate student majoring in computer science at Fudan Universit
 
 - 🎉 SIGMOD 2023 Programming Contest, 3rd Place, Finalist.
 
-- 🎉 OceanBase Competition 2022, Top-10.
+- 🎉 OceanBase Competition 2022, Top-10, Finalist.
 
 
 
