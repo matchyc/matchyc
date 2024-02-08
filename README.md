@@ -32,11 +32,11 @@ I'm Meng, a postgraduate student majoring in computer science at Fudan Universit
 <!--START_SECTION:waka-->
 
 ```txt
-Python     6 hrs 22 mins   █████████████▓░░░░░░░░░░░   55.24 %
-C++        3 hrs 26 mins   ███████▒░░░░░░░░░░░░░░░░░   29.83 %
-Other      56 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 %
-Bash       33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
-C          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+Python   7 hrs 2 mins    ███████████████░░░░░░░░░░   60.37 %
+C++      3 hrs 25 mins   ███████▒░░░░░░░░░░░░░░░░░   29.33 %
+Other    31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
+Bash     28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
+C        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
 ```
 
 <!--END_SECTION:waka-->
