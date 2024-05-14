@@ -4,7 +4,9 @@
 
 I'm Meng, a postgraduate student majoring in computer science at Fudan University. I received my B.S. in data science and big data technologies from BUPT.
 
+
 📰 **NEWS** 
+- 🧪 I'm currently a research intern at Microsoft Research Asia (MSRA).
 
 - 🏆 Won two championships on NeurIPS 2023 Competition Track: Practical Vector Search.  
 
