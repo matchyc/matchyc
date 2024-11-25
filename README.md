@@ -34,9 +34,7 @@ Homepage: https://matchyc.github.io/
 <!--START_SECTION:waka-->
 
 ```txt
-Bash   10 mins         ██████████████████░░░░░░░   71.37 %
-C++    3 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.95 %
-CSV    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
