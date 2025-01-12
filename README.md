@@ -34,9 +34,9 @@ Homepage: https://matchyc.github.io/
 <!--START_SECTION:waka-->
 
 ```txt
-Rust       2 hrs 19 mins   ███████████████████░░░░░░   76.46 %
-Markdown   29 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.21 %
-Python     12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
+Rust       2 hrs 19 mins   ███████████████████░░░░░░   76.53 %
+Markdown   29 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.16 %
+Python     12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
 TOML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
