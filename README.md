@@ -5,8 +5,10 @@
 I'm Meng, a postgraduate student majoring in computer science at Fudan University. I received my B.S. in data science and big data technologies from BUPT.
 Homepage: https://matchyc.github.io/
 
-📰 **NEWS** 
-- 🧪 I'm currently a research intern at Microsoft Research Asia (MSRA).
+📰 **NEWS**
+- 🧪 I was invited to a talk about RetrievalAttention at Ant Group, Alibaba Group, and TongYi Lab in Nov. 2024.
+- 🎉 “RetrievalAttention: Accelerating Long-Context LLM Inference via Vector Retrieval,” has been accepted for an oral (spotlight) presentation at the NeurIPS 2024 ENLSP Workshop with **Best Paper** award.
+- 🧪 I was a research intern at Microsoft Research Asia (MSRA) in 2024.
 - 🌟 Our solution was invited to a [talk](https://neurips.cc/virtual/2023/competition/66587) during NeurIPS 2023 in New Orleans.
 - 🏆 Won two championships on NeurIPS 2023 Competition Track: Practical Vector Search.  
 
