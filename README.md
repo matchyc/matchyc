@@ -2,7 +2,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/8906da98-c623-4aff-ac00-99cb42e09b38.svg)](https://wakatime.com/@8906da98-c623-4aff-ac00-99cb42e09b38)
 
-I'm Meng, a postgraduate student majoring in computer science at Fudan University. I received my B.S. in data science and big data technologies from BUPT.
+Hi, I'm Meng. I hold a research-oriented master's degree in Computer Science from Fudan University and a bachelor's degree in Data Science and Big Data Technology from BUPT.
 Homepage: https://matchyc.github.io/
 
 📰 **NEWS**
